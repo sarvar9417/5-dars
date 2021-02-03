@@ -1,0 +1,52 @@
+body{
+    margin: 0;
+}
+
+.container{
+    width: 80%;
+    margin: 0 auto;
+}
+h1, h3{
+    margin: 0;
+}
+
+h3{
+    margin: 15px 0 15px 0;
+}
+
+.box1{
+    background-color: bisque;
+    text-align: center;
+    padding: 30px 0px 30px 0px;
+    margin-bottom: 10px;
+}
+
+.box2{
+    background-color: darkturquoise;
+    padding: 10px;
+}
+
+.box3{
+    background-color: pink;
+    padding: 10px;
+    margin: 0;
+}
+
+p{
+    margin: 0;
+}
+
+.box4{
+    background-image: url('https://picsum.photos/1500/300');
+    background-repeat: no-repeat;
+    margin-top: 10px;
+    padding: 10px;
+    color: white;
+    
+}
+
+.box5{
+    background-color: silver;
+    text-align: center;
+    margin-top: 10px;
+}
